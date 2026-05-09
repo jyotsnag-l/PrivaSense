@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+openai-whisper
+librosa
+numpy
+scipy
+pandas
+python-dotenv
+python-telegram-bot>=20.0
+pymongo>=4.0
+httpx
+pytest
+pytest-asyncio
+slowapi
+pydantic-settings

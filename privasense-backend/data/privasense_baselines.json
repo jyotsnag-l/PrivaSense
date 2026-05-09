@@ -1,0 +1,46 @@
+{
+  "ayush_demo": {
+    "baseline": {
+      "pause_rate": 0.22041403452299524,
+      "mean_pause_duration": 0.5844285714285715,
+      "speech_rate_wpm": 124.05615016295819,
+      "filler_rate": 0.03772727272727273,
+      "lexical_diversity": 0.848,
+      "pitch_variability": 18.75
+    },
+    "sessions": 7
+  },
+  "ayush": {
+    "baseline": {
+      "pause_rate": 0.2816561380919808,
+      "mean_pause_duration": 0.837714285714286,
+      "speech_rate_wpm": 106.22460065183277,
+      "filler_rate": 0.09090909090909091,
+      "lexical_diversity": 0.842,
+      "pitch_variability": 0.0
+    },
+    "sessions": 2
+  },
+  "______": {
+    "baseline": {
+      "pause_rate": 0.2816561380919808,
+      "mean_pause_duration": 0.837714285714286,
+      "speech_rate_wpm": 106.22460065183277,
+      "filler_rate": 0.09090909090909091,
+      "lexical_diversity": 0.842,
+      "pitch_variability": 0.0
+    },
+    "sessions": 1
+  },
+  "___________________________": {
+    "baseline": {
+      "pause_rate": 0.2816561380919808,
+      "mean_pause_duration": 0.837714285714286,
+      "speech_rate_wpm": 106.22460065183277,
+      "filler_rate": 0.09090909090909091,
+      "lexical_diversity": 0.842,
+      "pitch_variability": 0.0
+    },
+    "sessions": 1
+  }
+}

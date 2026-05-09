@@ -1,0 +1,6 @@
+{
+  "name": "PrivaSense",
+  "description": "Secure healthcare companion for elderly care and multi-role caregiver monitoring.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
