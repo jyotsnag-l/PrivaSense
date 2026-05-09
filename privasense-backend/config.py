@@ -33,7 +33,7 @@ class Settings(BaseSettings):
     # Security Settings
     # ===========================================
     cors_origins: str = Field(
-        default="http://localhost:3000",
+        default="http://localhost:3000,http://localhost:5173,https://priva-sense-rho.vercel.app",
         description="Comma-separated list of allowed CORS origins"
     )
     
